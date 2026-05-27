@@ -1,0 +1,22 @@
+Madrid,Barcelona,150
+Madrid,Valencia,100
+Madrid,Sevilla,160
+Barcelona,Valencia,180
+Barcelona,Zaragoza,90
+Madrid,Zaragoza,80
+Sevilla,Malaga,50
+Sevilla,Cordoba,45
+Cordoba,Madrid,110
+Valencia,Alicante,120
+Madrid,Bilbao,240
+Bilbao,San Sebastian,60
+San Sebastian,Zaragoza,150
+Madrid,Valladolid,60
+Valladolid,Leon,70
+Leon,Oviedo,80
+Oviedo,Gijon,30
+Madrid,Toledo,30
+Toledo,Ciudad Real,50
+Ciudad Real,Cordoba,60
+Malaga,Granada,90
+Granada,Sevilla,150
